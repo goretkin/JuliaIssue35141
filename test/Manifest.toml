@@ -112,12 +112,6 @@ git-tree-sha1 = "8860d9d54bcb9176f2d04a192328e173fc605ce5"
 uuid = "d38a42db-3801-4ba0-8d69-b527598ec48c"
 version = "0.1.0"
 
-[[EponymTuples]]
-deps = ["Test"]
-git-tree-sha1 = "beb267f768b829fedf7562da883354066977c809"
-uuid = "97e2ac4a-e175-5f49-beb1-4d6866a6cdc3"
-version = "0.2.2"
-
 [[FFTViews]]
 deps = ["CustomUnitRanges", "FFTW"]
 git-tree-sha1 = "70a0cfd9b1c86b0209e38fbfe6d8231fd606eeaf"
@@ -172,7 +166,7 @@ uuid = "a2bd30eb-e257-5431-a919-1863eab51364"
 version = "1.0.2"
 
 [[GridVAMP]]
-deps = ["DataStructures", "EponymKeywordSyntax", "EponymTuples"]
+deps = ["DataStructures"]
 path = ".."
 uuid = "e2a18fb8-4a0f-4b9e-a519-a2cfeccb4106"
 version = "0.1.0"
