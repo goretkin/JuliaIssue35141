@@ -7,9 +7,6 @@ version = "0.1.0"
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 EponymKeywordSyntax = "d38a42db-3801-4ba0-8d69-b527598ec48c"
 EponymTuples = "97e2ac4a-e175-5f49-beb1-4d6866a6cdc3"
-FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
-GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
-ImageInTerminal = "d8c32880-2388-543b-8c61-d9f865259254"
 
 [compat]
 julia = "^1"
